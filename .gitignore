@@ -1,0 +1,7 @@
+.idea/
+out/*
+slides/*
+!slides/*.pdf
+.aux/
+/sources
+
