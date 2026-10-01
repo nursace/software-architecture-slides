@@ -3,5 +3,6 @@ out/*
 slides/*
 !slides/*.pdf
 .aux/
-/sources
+sources
+notes.txt
 
